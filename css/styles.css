@@ -20,7 +20,7 @@ body > header, body > footer {
     background-color: #FFFF00;
     height: 50px;
     padding: 20px;
-    color: white;
+    color: #FF0000;
 }
 
 .wrap {
