@@ -17,7 +17,7 @@ a:active {
 
 
 body > header, body > footer {
-    background-color: #555555;
+    background-color: #FFFF00;
     height: 50px;
     padding: 20px;
     color: white;
@@ -32,6 +32,7 @@ main {
     width: 60%;
     float: left;
     margin-right: 2%;
+    background-color: #FF0000;
 
 }
 
