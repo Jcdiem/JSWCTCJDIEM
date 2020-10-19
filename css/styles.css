@@ -54,3 +54,10 @@ aside {
 .aside-banner img {
     width: 90%;
 }
+
+footer {
+    background-color: #FFFF00;
+}
+header {
+    background-color: #bd02fb;
+}
